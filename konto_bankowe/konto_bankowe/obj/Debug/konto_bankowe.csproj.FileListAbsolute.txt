@@ -1,0 +1,7 @@
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\obj\Debug\konto_bankowe.csprojResolveAssemblyReference.cache
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\obj\Debug\konto_bankowe.csproj.CoreCompileInputs.cache
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\bin\Debug\konto_bankowe.exe.config
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\bin\Debug\konto_bankowe.exe
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\bin\Debug\konto_bankowe.pdb
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\obj\Debug\konto_bankowe.exe
+C:\Users\adamw\source\repos\konto_bankowe\konto_bankowe\obj\Debug\konto_bankowe.pdb
